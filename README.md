@@ -36,6 +36,18 @@ I'm a third-year CSE (AI & ML) student at UPES Dehradun who builds things end-to
 
 ---
 
+## Soft Skills
+
+![Public Speaking](https://img.shields.io/badge/Public_Speaking-FF6B6B?style=for-the-badge&logo=speakerdeck&logoColor=white)
+![Anchoring & Hosting](https://img.shields.io/badge/Anchoring_%26_Hosting-9B59B6?style=for-the-badge&logo=microphone&logoColor=white)
+![Leadership](https://img.shields.io/badge/Leadership-F39C12?style=for-the-badge&logo=buffer&logoColor=white)
+![Team Coordination](https://img.shields.io/badge/Team_Coordination-27AE60?style=for-the-badge&logo=trello&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-2980B9?style=for-the-badge&logo=googlemeet&logoColor=white)
+![Content Writing](https://img.shields.io/badge/Content_Writing-E74C3C?style=for-the-badge&logo=medium&logoColor=white)
+![Confidence](https://img.shields.io/badge/Confidence-1ABC9C?style=for-the-badge&logo=lightning&logoColor=white)
+
+---
+
 ## GitHub Stats
 
 <p align="center">
@@ -45,14 +57,6 @@ I'm a third-year CSE (AI & ML) student at UPES Dehradun who builds things end-to
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankitnotnani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitnotnani&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankitnotnani&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitnotnani&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
